@@ -90,9 +90,3 @@ userSchema.methods.generateRefreshToken = function () {
 }
 
 export const User = mongoose.model("User", userSchema);
-
-
-// Note
-/*
-- jwt is bearer token. it is like a key.
-*/
