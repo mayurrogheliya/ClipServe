@@ -26,7 +26,6 @@ connectDB()
 
 
 
-
 /* // first approach
 import express from 'express';
 const app = express();
