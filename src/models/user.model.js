@@ -1,5 +1,3 @@
-// bson data not json data in mongodb
-
 import mongoose, { Schema } from "mongoose";
 import jwt from 'jsonwebtoken'
 import bcrypt from 'bcrypt'
